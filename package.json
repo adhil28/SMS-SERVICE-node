@@ -1,0 +1,18 @@
+{
+  "name": "sms-service-node",
+  "version": "1.0.2",
+  "description": "Use your android device to send SMS from nodeJs",
+  "main": "SmsService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adhil",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.24"
+  }
+}
