@@ -1,6 +1,6 @@
 {
   "name": "sms-service-node",
-  "version": "1.0.2",
+  "version": "1.0.20.",
   "description": "Use your android device to send SMS from nodeJs",
   "main": "SmsService.js",
   "scripts": {
